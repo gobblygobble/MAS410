@@ -31,9 +31,9 @@ while True:
         if (p * q == n):
             print("p times q equals n... Wiener's Low Decryption Exponent Attack Succeeds!")
             print("Private keys a, p, q are:")
+            print(a)
             print(p)
             print(q)
-            print(a)
             break
         else:
             print("... but p times q does not equal n... looking for other convergents")
