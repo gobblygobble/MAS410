@@ -14,6 +14,6 @@ Homework4: Wiener's Low Decryption Exponent Attack on RSA (in SageMath / Python)
 
 Homework5: Evaluating Entropy of Fibonacci Sequence to Assess Its Ability to Contain Knowledge of Some Sort
 
-Homework6: Recovering a Rational Number From A Given Random Sequence Using Convergents
+Homework6: Recovering a Rational Number From A Subset of Its Circulating Decimal Sequence
 
 Copyright © Jinha Chung, KAIST School of Electrical Engineering
