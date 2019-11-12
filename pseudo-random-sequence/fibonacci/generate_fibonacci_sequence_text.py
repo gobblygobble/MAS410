@@ -1,4 +1,4 @@
-# Generates a Fibonacci sequence and writes to a specified textfile without spaces. (1123581321...)
+# Generates a Fibonacci sequence and writes to a specified file without spaces. (1123581321...)
 
 size = 0
 MAXSIZE = 1000000 # 1MB
