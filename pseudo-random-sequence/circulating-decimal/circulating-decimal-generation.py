@@ -20,6 +20,6 @@ if ((1/p).period() > 250):
     print("This prime works! It has period %d" % ((1/p).period()))
 '''
 a = (p/217).round()
-print("nominator A: %d" % (a))
+print("numerator A: %d" % (a))
 dec = ((10^250) * (a/p)).round('down')
 print(dec)
