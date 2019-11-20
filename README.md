@@ -16,4 +16,6 @@ Homework5: Evaluating Entropy of Fibonacci Sequence to Assess Its Ability to Con
 
 Homework6: Recovering a Rational Number From A Subset of Its Circulating Decimal Sequence
 
+Homework7: Assessing A/P - Generated Pseudo-Random Sequences' Randomness
+
 Copyright © Jinha Chung, KAIST School of Electrical Engineering
